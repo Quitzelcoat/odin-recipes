@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(229, 118, 92, 0.7);
+}
+
+h1.recp {
+    font-weight: 800;
+    font-size: 26px;
+    text-align: center;
+}
+
+#pages, 
+.rec {
+    color: black;
+}
